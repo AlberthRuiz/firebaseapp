@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221041130224",
+    "project_id": "groupg7-189f0",
+    "storage_bucket": "groupg7-189f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221041130224:android:ca7b05f913173509b16035",
+        "android_client_info": {
+          "package_name": "pe.demo.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU6ySHEAU59_58ZLqG5Ld-8dEUzroLr0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
